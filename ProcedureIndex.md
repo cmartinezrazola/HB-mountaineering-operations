@@ -1,0 +1,5 @@
+| Proc ID | Procedure | Configuration | Type | Category | Description | 
+| ------- | --------- | ------------- | ---- | -------- | ----------- |
+|0001     | Glaciar crevasse rescue | Severity 1. Victim can climb and she is skilled | rescue | mountaineering | Called "self rescue". Victim felt in a glaciar crevasse. Partners hold her while victim climb the rope to go out of the crevasse by herself.|
+|0002     | Glaciar crevasse rescue | Severity 2. Victim cannot climb but she is conscious | rescue | mountaineering | Victim felt in a glaciar crevasse. Partners stop the fall and they assists the victim pulling her out of the crevasse. The victim cannot climb by herself because she is injured or she is unskilled. The victim is conscious and can take a carabiner from her partners and connect it to her harness|
+|0003     | Glaciar crevasse rescue | Severity 3. Victim is unconscious or dead | rescue | mountaineering | Victim felt in a glaciar crevasse. Partners stop the fall and they pull the unconscious body of the victim out of the crevasse. |
